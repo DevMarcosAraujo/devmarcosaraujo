@@ -5,8 +5,7 @@
 
 ## Sobre mim  
 🎯 Sempre em busca de aprender mais sobre desenvolvimento, sistemas e inovação.  
-📚 Compartilhando conhecimento e projetos com a comunidade.  
-💼 Em busca do meu primeiro emprego na área de programação ou afins!
+📚 Compartilhando conhecimento e projetos com a comunidade. 
 
 ### 📫 Conecte-se comigo 
 
