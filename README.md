@@ -13,7 +13,7 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-araujo-a76912274)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/marcosantaraujo?t=Oj_cGwRKyNZoeKsLEL0Duw&s=09)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MARCOSARAUJO_TEC)
-[![SITE](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://beatrizemarcos.netlify.app/)
+[![SITE](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://marcosaraujo.dev.br/)
 
 
 ![Marcos Araújo GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMarcosAraujo&theme=highcontrast)
