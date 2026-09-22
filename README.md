@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="display: flex">
   <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+o+Marcos+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Especialista+em+Redes+%26+Infraestrutura&center=true&width=600&height=60&color=58A6FF&vCenter=true&size=28&font=Fira+Code&pause=2000" alt="typing-svg" />
 </h1>
 
