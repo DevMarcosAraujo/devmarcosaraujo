@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Marcos 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Infraestrutura+de+TI+%26+Redes;Desenvolvedor+Full+Stack+Autodidata;Energia+Solar+%7C+CFTV+%7C+Provedor+de+Internet;Automa%C3%A7%C3%A3o+%26+Solu%C3%A7%C3%B5es+sob+medida&center=true&width=520&height=45&color=58A6FF&vCenter=true&size=22&font=Fira+Code" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full+Stack;Especialista+em+Redes+%26+Infraestrutura;Node.js+%7C+React+%7C+Python;Automa%C3%A7%C3%A3o+de+Redes+%26+Sistemas&center=true&width=520&height=45&color=58A6FF&vCenter=true&size=22&font=Fira+Code" alt="typing-svg" />
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 ### 🧭 Sobre mim
 
-Profissional de **TI e infraestrutura** em Brasília, atuando em múltiplas frentes: redes estruturadas, CFTV, Wi-Fi e VPN, energia solar, provedor de internet ponto a ponto e desenvolvimento de software sob demanda. Formado em Gestão de TI, autodidata em programação, sempre migrando entre o campo (instalação, cabeamento, links de rádio) e o código (automações, dashboards, SaaS).
+Desenvolvedor full stack e especialista em infraestrutura de redes, unindo os dois mundos: escrevo código e também desenho, instalo e mantenho a rede por trás dele. Autodidata em programação, formado em Gestão de TI, com experiência prática em cabeamento estruturado, Wi-Fi, VPN, links ponto a ponto e monitoramento de qualidade de sinal — o tipo de conhecimento de campo que me ajuda a construir ferramentas que resolvem problemas reais de rede e operação.
 
-- 🌐 Redes & Infra — cabeamento estruturado, CFTV, Wi-Fi, VPN, links PtP
-- ☀️ Energia solar — projetos e instalação
-- 📡 Provedor de internet — hotspots rurais via Starlink/PtP com pagamento PIX
-- 💻 Desenvolvimento — Node.js, React, automações e chatbots (WhatsApp)
-- 🚗 Renda extra via app de transporte
+- 💻 **Desenvolvimento** — JavaScript/TypeScript, Node.js, React, Python
+- 🌐 **Redes & Infraestrutura** — cabeamento estruturado, Wi-Fi, VPN, links PtP, CFTV
+- 📡 **Ferramentas de rede** — dashboards de monitoramento e análise de sinal (RSSI/RX)
+- ☁️ **Deploy** — VPS própria hospedando múltiplas aplicações Node.js/React
+- 🔁 **Automação** — bots, integrações via WhatsApp (whatsapp-web.js) e chatbots
 
 ---
 
@@ -30,16 +30,44 @@ Profissional de **TI e infraestrutura** em Brasília, atuando em múltiplas fren
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VPS-0080FF?style=for-the-badge&logo=serverfault&logoColor=white" />
   <img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
+
+---
+
+### 🚀 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/DevMarcosAraujo/mac_vision">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcosAraujo&repo=mac_vision&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/DevMarcosAraujo/ma-meet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcosAraujo&repo=ma-meet&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/DevMarcosAraujo/App-finance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcosAraujo&repo=App-finance&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/DevMarcosAraujo/analistan1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarcosAraujo&repo=analistan1&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+- 🔎 **[mac_vision](https://github.com/DevMarcosAraujo/mac_vision)** — dashboard em Python (Streamlit + Pandas + Plotly) para análise comparativa de qualidade de sinal RX de equipamentos de rede
+- 🎥 **[ma-meet](https://github.com/DevMarcosAraujo/ma-meet)** — sala de videoconferência em React integrada à API do Jitsi Meet, com autenticação e rotas protegidas
+- 💰 **[App-finance](https://github.com/DevMarcosAraujo/App-finance)** — app de controle financeiro pessoal/familiar com acompanhamento de investimentos
+- 🏥 **[analistan1](https://github.com/DevMarcosAraujo/analistan1)** — sistema de gestão de inventário e monitoramento de infraestrutura de TI hospitalar
 
 ---
 
